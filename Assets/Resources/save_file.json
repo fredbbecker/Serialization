@@ -1,0 +1,204 @@
+{
+    "id": 1371570112,
+    "name": "Blue",
+    "money": 100,
+    "time": 6.123984336853027,
+    "badges": 3,
+    "pokemons": [
+        {
+            "id": 3582865405,
+            "number": 1,
+            "trainerId": 1371570112,
+            "trainerName": "Blue",
+            "nickname": "Bulba",
+            "level": 1,
+            "moves": [
+                {
+                    "id": 0,
+                    "name": "Absorb",
+                    "type": 16,
+                    "power": 20,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 1,
+                    "name": "Acid",
+                    "type": 128,
+                    "power": 40,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 2,
+                    "name": "Acid Armor",
+                    "type": 128,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 40
+                },
+                {
+                    "id": 3,
+                    "name": "Agility",
+                    "type": 1024,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 30
+                }
+            ]
+        },
+        {
+            "id": 426784628,
+            "number": 52,
+            "trainerId": 1371570112,
+            "trainerName": "Blue",
+            "nickname": "Gato",
+            "level": 1,
+            "moves": [
+                {
+                    "id": 0,
+                    "name": "Absorb",
+                    "type": 16,
+                    "power": 20,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 1,
+                    "name": "Acid",
+                    "type": 128,
+                    "power": 40,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 2,
+                    "name": "Acid Armor",
+                    "type": 128,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 40
+                },
+                {
+                    "id": 3,
+                    "name": "Agility",
+                    "type": 1024,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 30
+                }
+            ]
+        },
+        {
+            "id": 2249421142,
+            "number": 25,
+            "trainerId": 4294967295,
+            "trainerName": "None",
+            "nickname": "Pikachu",
+            "level": 48,
+            "moves": [
+                {
+                    "id": 0,
+                    "name": "Absorb",
+                    "type": 16,
+                    "power": 20,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 1,
+                    "name": "Acid",
+                    "type": 128,
+                    "power": 40,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 2,
+                    "name": "Acid Armor",
+                    "type": 128,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 40
+                },
+                {
+                    "id": 3,
+                    "name": "Agility",
+                    "type": 1024,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 30
+                }
+            ]
+        },
+        {
+            "id": 1881808014,
+            "number": 6,
+            "trainerId": 4294967295,
+            "trainerName": "None",
+            "nickname": "Charizard",
+            "level": 49,
+            "moves": [
+                {
+                    "id": 0,
+                    "name": "Absorb",
+                    "type": 16,
+                    "power": 20,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 1,
+                    "name": "Acid",
+                    "type": 128,
+                    "power": 40,
+                    "accuracy": 100,
+                    "pp": 20
+                },
+                {
+                    "id": 2,
+                    "name": "Acid Armor",
+                    "type": 128,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 40
+                },
+                {
+                    "id": 3,
+                    "name": "Agility",
+                    "type": 1024,
+                    "power": 0,
+                    "accuracy": 100,
+                    "pp": 30
+                }
+            ]
+        }
+    ],
+    "itens": [
+        {
+            "id": 1,
+            "name": "Pokeball",
+            "quantity": 7
+        },
+        {
+            "id": 2,
+            "name": "Rare Candy",
+            "quantity": 1
+        },
+        {
+            "id": 3,
+            "name": "Bicycle",
+            "quantity": 1
+        },
+        {
+            "id": 4,
+            "name": "Potion",
+            "quantity": 99
+        },
+        {
+            "id": 55,
+            "name": "TM55",
+            "quantity": 1
+        }
+    ]
+}
